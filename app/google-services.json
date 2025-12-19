@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994700133054",
+    "project_id": "dillydally-fd649",
+    "storage_bucket": "dillydally-fd649.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994700133054:android:1e5a04aa35f8189ee814ef",
+        "android_client_info": {
+          "package_name": "com.example.dillydally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994700133054-07i6mrj7efcgboqilm062oua3gje050r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dillydally",
+            "certificate_hash": "d11e0f310cbe6beef76b7ffab4359720290932b3"
+          }
+        },
+        {
+          "client_id": "994700133054-u8atinuq9chmd7amhka3ebq7bfe7hn3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkSByVQi0DdD8mOS-XCbH4NxafjgfyyNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994700133054-u8atinuq9chmd7amhka3ebq7bfe7hn3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
